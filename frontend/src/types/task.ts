@@ -8,3 +8,4 @@ export type Task = {
 
 export type StatusFilter = "all" | "pending" | "completed";
 
+

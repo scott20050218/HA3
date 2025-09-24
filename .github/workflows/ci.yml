@@ -57,3 +57,4 @@ jobs:
         working-directory: frontend
         run: |
           npx prettier --check "**/*.{ts,tsx,js,json,md,css}"
+
