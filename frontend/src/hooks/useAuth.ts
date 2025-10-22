@@ -43,3 +43,12 @@ export function useAuth() {
   return { user, loading, login, register, logout };
 }
 
+
+
+
+
+
+
+
+
+
